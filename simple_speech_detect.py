@@ -27,7 +27,7 @@ def newLabelsToLook(message,bbox,objects,conf):
     new_bbox = []
     new_objects = []
     new_conf = []
-    if message == "all":
+    if "all" in message:
         return bbox, objects,conf
 
     for n,present_label in enumerate(objects):
