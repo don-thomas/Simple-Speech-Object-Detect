@@ -1,7 +1,7 @@
 # Simple Speech Object Detection
 This program will listen to the objects to be highlighted within an image
 
-<img src="project_images/example.png" width="500">
+<img src="project_images/example.png" width="800">
 
 ## Getting Started
 Install the packages needed for this project: cvlib, matplotlib, opencv, pyaudio and speech_recognition
