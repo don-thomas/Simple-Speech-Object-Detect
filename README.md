@@ -12,7 +12,7 @@ Open a terminal and go to the project directory . Then run the following command
 python3 simple_speech_detect.py
 ```
 
-Tell the program what objects to be found but remember that only the classic 80 yolo objects can be found.
+Speak the objects to be found within an image but remember that only the classic 80 yolo objects can be found
 
 If the user says "next": It will go to the next image
 If the user says "end": The program will end
